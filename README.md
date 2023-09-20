@@ -4,7 +4,7 @@
  
 </div>
 <div align = "center">
-    <a href="https://www.linkedin.com/in/arij-saleh-786b5b194/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/arij-saleh-sa/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/SalehArij" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/twitter%20rect.svg"></a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/arijsaleh_/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/insta%20rect.svg"></a>&nbsp;&nbsp;
     <a href="https://github.com/ArijSaaleh" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
