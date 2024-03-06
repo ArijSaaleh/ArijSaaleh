@@ -1,7 +1,6 @@
 # Hello, I'm Arij SALEH 👋
-Embedded Systems Software Engineer | Java | Python | C | Node.js | Spring Boot | Angular | Flutter | Android Studio
 
-Welcome to my GitHub profile! I'm passionate about developing software for embedded systems and creating innovative solutions. Here's a glimpse of what I do:
+Welcome to my GitHub profile! I'm an Embedded Systems Software Engineer passionate about developing software for embedded systems and creating innovative solutions. Here's a glimpse of what I do:
 
 ## 💼 Professional Experience
 - Embedded Systems Software Engineer at Freelance (current)
