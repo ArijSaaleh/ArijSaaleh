@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm an Embedded Systems Software Engineer passiona
 - Flutter with Dart
 
 ## 📫 Let's Connect
-- LinkedIn: [Arij Saleh](https://www.linkedin.com/in/arij-saleh-sa)
+- LinkedIn: [Arij Saleh](https://www.linkedin.com/in/arijsaleh)
 - Website: [Arij's portfolio](https://arijsaaleh.github.io)
 
 Feel free to explore my repositories and connect with me! Let's collaborate and build amazing things together. 😊
