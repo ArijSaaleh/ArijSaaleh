@@ -73,6 +73,4 @@ If you need any help, don't hesitate to reach out, I'd be glad to respond!
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 
 ## 📈 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArijSaaleh&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=ArijSaaleh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArijSaaleh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArijSaaleh&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArijSaaleh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
