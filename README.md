@@ -15,5 +15,5 @@ If you need any help, don't hesitate to reach out, I'd be glad to respond!
 </td><td valign="top" width="30%">
 
 <div align="center">
- <img src="https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3Jhd3BpeGVsX29mZmljZV8zMl9kaWdpdGFsX3BhaW50X2lsbHVzdHJhdGlvbl9vZl9zbWlsaW5nX2FmcmljYV85OTg4MTUxYS03MmI5LTQ4YWItODQ2My1iN2M2NzkxNDY5MDhfMS5wbmc.png" alt="Robotics Image" width="200" height="200" style="border-radius:50%;">
+   <img src="Picture1.jpg" alt="Robotics Image" width="200" height="200" style="border-radius:50%;">
 </div>  
