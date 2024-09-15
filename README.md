@@ -1,18 +1,14 @@
-<h1>Hi 👋, I'm Arij Saleh</h1>
-<h3> Hi there 🤗! I'm Arij , an IT software engineer with a passion for IoT and the Linux world. I enjoy creating educational content to share my knowledge and experiences. Feel free to explore my work experience and projects in the sections below.
-I am currently open to new work opportunities and am always happy to provide technical assistance. If you need any help, don't hesitate to reach out, I'd be glad to respond!
-
-Have a great day!
-  
-**Let’s transform the way machines think, react, and learn!** 🚀</h3>
+<h1>Welcome to the hub</h1>
 <table style="width: 100%; border-spacing: 20px;">
     <tr>
       <!-- Left column with text -->
       <td style="width: 50%; vertical-align: top;">
-        <h1>Welcome to My Portfolio</h1>
-        <p>I’m an embedded systems and IoT engineer with a passion for robotics and automation. 
-          I specialize in low-level programming, system optimization, and IoT solutions that 
-          transform everyday life.</p>
+        <p>Hi there 🤗! I'm Arij , an IT software engineer with a passion for IoT and the Linux world. I enjoy creating educational content to share my knowledge and experiences. Feel free to explore my work experience and projects in the sections below.
+I am currently open to new work opportunities and am always happy to provide technical assistance. If you need any help, don't hesitate to reach out, I'd be glad to respond!
+
+Have a great day!
+  
+**Let’s transform the way machines think, react, and learn!** 🚀</p>
       </td>
       <!-- Right column with image -->
       <td style="width: 50%; text-align: right;">
