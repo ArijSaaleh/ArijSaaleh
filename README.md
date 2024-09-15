@@ -1,82 +1,24 @@
-![Header]([https://your-image-link-here.com/banner.jpg](https://image.lexica.art/full_jpg/0bf3310a-e2aa-4a7e-80a8-4b03f1a48e65))
+<h1 align="center">Hi 👋, I'm Arij Saleh</h1>
+<h3 align="center">A passionate Iot engineer</h3>
 
-# Welcome to My Domain 👾 | **Embedded Systems** & **IoT Engineer**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arijsaaleh&label=Profile%20views&color=0e75b6&style=flat" alt="arijsaaleh" /> </p>
 
-🔧 **Crafting the Future** | 🔬 **Automating the World**
+- 🔭 I’m currently working on [a project](#)
 
----
+- 🌱 I’m currently learning **ROS**
 
-## 👾 About Me
+- 💬 Ask me about **Linux, IoT**
 
-I'm an **Embedded Systems and IoT Engineer** with a passion for **robotics** and **automation**. I specialize in pushing the boundaries of technology, building robust firmware, and designing intelligent systems that interact with the real world.
+- 📫 How to reach me **ariij.saleh@gmail.com**
 
-- 💡 Innovator in **low-level programming** and **system optimization**.
-- 🤖 Enthusiast of cutting-edge **robotics** and **autonomous systems**.
-- 🌍 Bringing ideas to life with **IoT** technologies to create smart solutions.
-  
-**Let’s transform the way machines think, react, and learn!** 🚀
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/arijsaleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arijsaleh" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 💼 What I Do
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijsaaleh&show_icons=true&locale=en&layout=compact" alt="arijsaaleh" /></p>
 
-### ⚡ Embedded Systems
-- **Bare-Metal Programming** | C/C++
-- **RTOS** | Linux & Custom OS
-- **Microcontrollers**: STM32, ESP32, ARM Cortex
-- **Low Power Systems** | Energy-efficient design
-
-### 🌐 Internet of Things (IoT)
-- **Sensors & Actuators** integration
-- **Wireless Communication**: BLE, LoRa, Zigbee
-- **Edge Computing** & AIoT
-- **Cloud Platforms**: AWS IoT, Azure IoT Hub
-
-### 🤖 Robotics
-- **Embedded Control Systems**
-- **Robotic Process Automation** (RPA)
-- **Real-Time System Design**
-- **AI in Robotics** | OpenCV, TensorFlow Lite
-
----
-
-## 🌟 Skills & Tools
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00599C?style=flat&logo=freertos&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## 🚀 Projects & Contributions
-
-1. **IoT-based Smart Home Automation** | [Link to repo](#)
-   - Designed and implemented an IoT solution to control home appliances remotely using MQTT and ESP32.
-
-2. **Autonomous Delivery Robot** | [Link to repo](#)
-   - Developed embedded control software for an autonomous delivery robot with obstacle avoidance and navigation capabilities.
-
-3. **Low-Power Environmental Sensor** | [Link to repo](#)
-   - Engineered an ultra-low-power sensor using STM32 and LoRa for long-range environmental monitoring.
-
----
-
-## 🔍 Find Me Around
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/arijsaleh/)
-- 🌐 [Portfolio](https://github.arijsaaleh.io/)
-
----
-
-## 🔥 Visitor Counter
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArijSaaleh.ArijSaaleh)
-
----
-
-![Footer](https://your-image-link-here.com/footer.jpg)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arijsaaleh&" alt="arijsaaleh" /></p>
