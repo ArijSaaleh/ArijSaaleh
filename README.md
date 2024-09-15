@@ -14,7 +14,6 @@ Have a great day!
           I specialize in low-level programming, system optimization, and IoT solutions that 
           transform everyday life.</p>
       </td>
-
       <!-- Right column with image -->
       <td style="width: 50%; text-align: right;">
         <img src="https://via.placeholder.com/400" alt="Robotics Image" style="max-width: 100%;">
