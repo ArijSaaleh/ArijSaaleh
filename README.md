@@ -1,5 +1,5 @@
 <h1>Welcome to the hub</h1>
-<table style="width: 100%; border-spacing: 20px;">
+<table style="width: 100%; border-spacing: 20px;" border: none;>
     <tr>
       <!-- Left column with text -->
       <td style="width: 50%; vertical-align: top;">
