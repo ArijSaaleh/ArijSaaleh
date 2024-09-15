@@ -5,19 +5,22 @@ I am currently open to new work opportunities and am always happy to provide tec
 Have a great day!
   
 **Let’s transform the way machines think, react, and learn!** 🚀</h3>
-<div class="two-column">
-    <!-- Left column with text -->
-    <div class="left-column">
-      <h1>Welcome to My Portfolio</h1>
-      <p>I’m an embedded systems and IoT engineer with a passion for robotics and automation. 
-        I specialize in low-level programming, system optimization, and IoT solutions that 
-        transform everyday life.</p>
-    </div>
-    <!-- Right column with image -->
-    <div class="right-column">
-      <img src="https://via.placeholder.com/400" alt="Robotics Image">
-    </div>
-  </div>
+<table style="width: 100%; border-spacing: 20px;">
+    <tr>
+      <!-- Left column with text -->
+      <td style="width: 50%; vertical-align: top;">
+        <h1>Welcome to My Portfolio</h1>
+        <p>I’m an embedded systems and IoT engineer with a passion for robotics and automation. 
+          I specialize in low-level programming, system optimization, and IoT solutions that 
+          transform everyday life.</p>
+      </td>
+
+      <!-- Right column with image -->
+      <td style="width: 50%; text-align: right;">
+        <img src="https://via.placeholder.com/400" alt="Robotics Image" style="max-width: 100%;">
+      </td>
+    </tr>
+  </table>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijsaaleh&label=Profile%20views&color=0e75b6&style=flat" alt="arijsaaleh" /> </p>
 
 - 🔭 I’m currently working on [a project](#)
