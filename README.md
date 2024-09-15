@@ -1,113 +1,82 @@
-## Hey 👋, I'm Arij Saleh!  
+![Header]([https://your-image-link-here.com/banner.jpg](https://image.lexica.art/full_jpg/0bf3310a-e2aa-4a7e-80a8-4b03f1a48e65))
+
+# Welcome to My Domain 👾 | **Embedded Systems** & **IoT Engineer**
+
+🔧 **Crafting the Future** | 🔬 **Automating the World**
+
+---
+
+## 👾 About Me
+
+I'm an **Embedded Systems and IoT Engineer** with a passion for **robotics** and **automation**. I specialize in pushing the boundaries of technology, building robust firmware, and designing intelligent systems that interact with the real world.
+
+- 💡 Innovator in **low-level programming** and **system optimization**.
+- 🤖 Enthusiast of cutting-edge **robotics** and **autonomous systems**.
+- 🌍 Bringing ideas to life with **IoT** technologies to create smart solutions.
   
+**Let’s transform the way machines think, react, and learn!** 🚀
 
-<a href="https://github.com/ArijSaaleh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18924353/arij-saleh" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/arijsaleh" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+---
 
+## 💼 What I Do
 
+### ⚡ Embedded Systems
+- **Bare-Metal Programming** | C/C++
+- **RTOS** | Linux & Custom OS
+- **Microcontrollers**: STM32, ESP32, ARM Cortex
+- **Low Power Systems** | Energy-efficient design
 
-### Glad to see you here!  
-Hi there 🤗! I'm Arij , an IT software engineer with a passion for IoT and the Linux world. I enjoy creating educational content to share my knowledge and experiences.
+### 🌐 Internet of Things (IoT)
+- **Sensors & Actuators** integration
+- **Wireless Communication**: BLE, LoRa, Zigbee
+- **Edge Computing** & AIoT
+- **Cloud Platforms**: AWS IoT, Azure IoT Hub
 
-I am currently working on enhancing my skills. If you need any help, don't hesitate to reach out, I'd be glad to respond!
+### 🤖 Robotics
+- **Embedded Control Systems**
+- **Robotic Process Automation** (RPA)
+- **Real-Time System Design**
+- **AI in Robotics** | OpenCV, TensorFlow Lite
 
-Have a great day!  
-  
+---
 
-<br/>  
+## 🌟 Skills & Tools
 
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00599C?style=flat&logo=freertos&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+---
 
-- 🔭 I’m currently working on [PracticeC](https://github.com/ArijSaaleh/practiceC)  
-  
+## 🚀 Projects & Contributions
 
-- 🌱 I’m currently learning Yocto project.  
-  
+1. **IoT-based Smart Home Automation** | [Link to repo](#)
+   - Designed and implemented an IoT solution to control home appliances remotely using MQTT and ESP32.
 
-- ❓ Ask me about anything related to Embedded systems, IoT & Linux  
-  
+2. **Autonomous Delivery Robot** | [Link to repo](#)
+   - Developed embedded control software for an autonomous delivery robot with obstacle avoidance and navigation capabilities.
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+3. **Low-Power Environmental Sensor** | [Link to repo](#)
+   - Engineered an ultra-low-power sensor using STM32 and LoRa for long-range environmental monitoring.
 
+---
 
-</td><td valign="top" width="50%">
+## 🔍 Find Me Around
 
-<div align="center">
-<img src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775234_960_720.png" align="center" style="width: 100%" />
-</div>  
+- 💼 [LinkedIn](https://www.linkedin.com/in/arijsaleh/)
+- 🌐 [Portfolio](https://github.arijsaaleh.io/)
 
+---
 
-</td></tr></table>  
+## 🔥 Visitor Counter
 
-<br/>  
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArijSaaleh.ArijSaaleh)
 
+---
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="25" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArijSaaleh&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArijSaaleh&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=ArijSaaleh&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+![Footer](https://your-image-link-here.com/footer.jpg)
