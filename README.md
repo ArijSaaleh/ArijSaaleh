@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Arij Saleh</h1>
-<h3 align="center">I'm an **Embedded Systems and IoT Engineer** with a passion for **robotics** and **automation**. I specialize in pushing the boundaries of technology, building robust firmware, and designing intelligent systems that interact with the real world.
-
-Hi there 🤗! I'm Arij , an IT software engineer with a passion for IoT and the Linux world. I enjoy creating educational content to share my knowledge and experiences. Feel free to explore my work experience and projects in the sections below.
+<h3> Hi there 🤗! I'm Arij , an IT software engineer with a passion for IoT and the Linux world. I enjoy creating educational content to share my knowledge and experiences. Feel free to explore my work experience and projects in the sections below.
 I am currently open to new work opportunities and am always happy to provide technical assistance. If you need any help, don't hesitate to reach out, I'd be glad to respond!
 
 Have a great day!
@@ -15,7 +13,6 @@ Have a great day!
         I specialize in low-level programming, system optimization, and IoT solutions that 
         transform everyday life.</p>
     </div>
-
     <!-- Right column with image -->
     <div class="right-column">
       <img src="https://via.placeholder.com/400" alt="Robotics Image">
