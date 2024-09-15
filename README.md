@@ -12,7 +12,7 @@ Have a great day!
       </td>
       <!-- Right column with image -->
       <td style="width: 50%; text-align: right;">
-        <img src="https://via.placeholder.com/400" alt="Robotics Image" style="max-width: 100%;">
+        <img src="https://image.lexica.art/md2_webp/54e2cc64-d322-44bd-b683-9ba23cc9587e/400" alt="Robotics Image" style="max-width: 100%;">
       </td>
     </tr>
   </table>
