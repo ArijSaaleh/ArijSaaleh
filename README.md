@@ -1,4 +1,4 @@
-<h1>Welcome to the hub</h1>
+<h1>Welcome to my hub ♔ </h1>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=arijsaaleh&label=Profile%20views&color=0e75b6&style=flat" alt="arijsaaleh" />
@@ -15,5 +15,5 @@ If you need any help, don't hesitate to reach out, I'd be glad to respond!
 </td><td valign="top" width="30%">
 
 <div align="center">
-   <img src="Picture1.jpg" alt="Robotics Image" width="200" height="200" style="border-radius:50%;">
+   <img src="Picture1.png" alt="Robotics Image"  style="max-width: 100%; border-radius: 50%;">
 </div>  
