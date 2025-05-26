@@ -4,7 +4,7 @@
 
 
 <table><tr><td valign="top" width="70%">
-Hi there 🤗! I'm Arij, an IT software engineer with a passion for IoT and the Linux world. I enjoy creating educational content to share my knowledge and experiences.
+Hi there 🤗! I'm Arij, an IT software engineer. I enjoy creating educational content to share my knowledge and experiences.
 
 I am currently open to new work opportunities and am always happy to provide technical assistance. 
 
