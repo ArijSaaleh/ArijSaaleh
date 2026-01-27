@@ -4,11 +4,12 @@
 
 
 <table><tr><td valign="top" width="70%">
-Hi there 🤗! I'm Arij, an IT software engineer. I enjoy creating educational content to share my knowledge and experiences.
+I’m an IT Software Engineer who spends way too much time staring at ESP32 serial monitors and FreeRTOS task logs. I like building things that actually *do* something in the physical world.
 
-I am currently open to new work opportunities and am always happy to provide technical assistance. 
-
-If you need any help, don't hesitate to reach out, I'd be glad to respond!
+**What I’m currently into:**
+* Breaking (and then fixing) real-time embedded systems.
+* Moving data from sensors to the cloud without it disappearing into the void.
+* Teaching others how to not blow up their hardware.
 
   <a href="https://linkedin.com/in/arijsaleh" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 7px;" />
